@@ -1,3 +1,3 @@
 # jwinf-junioraufgabe1--Auf-und-Ab
 
-Der Quelltext wird nach Ende des 2. JWINFs und des 37. BWINFS veröffentlicht
+Hier ist mein Quellcode zur 1. Junioraufgabe des Jungendwettbewerbs Informatik (3. Runde)
